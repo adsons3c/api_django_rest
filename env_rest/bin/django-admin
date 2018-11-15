@@ -1,4 +1,4 @@
-#!/home/adson/Documentos/estudo/django-Rest/env_rest/bin/python3.6
+#!/home/adson/Documentos/estudo/api_django_rest/env_rest/bin/python3.6
 
 # -*- coding: utf-8 -*-
 import re
